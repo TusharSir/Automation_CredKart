@@ -678,3 +678,69 @@
 2023-06-22 10:12:24,765 : INFO : Test_Login : test_login_params_003 : 30 : Clicking on login button
 2023-06-22 10:12:24,914 : INFO : Test_Login : test_login_params_003 : 38 : Testcases test_login_params_003 is failed
 2023-06-22 10:12:24,914 : INFO : Test_Login : test_login_params_003 : 38 : Testcases test_login_params_003 is failed
+2023-06-22 10:19:25,090 : INFO : Test_Login : test_login_params_003 : 18 : Testcases test_login_params_003 is started
+2023-06-22 10:19:25,090 : INFO : Test_Login : test_login_params_003 : 18 : Testcases test_login_params_003 is started
+2023-06-22 10:19:25,091 : INFO : Test_Login : test_login_params_003 : 20 : Invoking browser
+2023-06-22 10:19:25,091 : INFO : Test_Login : test_login_params_003 : 20 : Invoking browser
+2023-06-22 10:19:25,091 : INFO : Test_Login : test_login_params_003 : 21 : Opening Url
+2023-06-22 10:19:25,091 : INFO : Test_Login : test_login_params_003 : 21 : Opening Url
+2023-06-22 10:19:28,745 : INFO : Test_Login : test_login_params_003 : 24 : Clicking on login link
+2023-06-22 10:19:28,745 : INFO : Test_Login : test_login_params_003 : 24 : Clicking on login link
+2023-06-22 10:19:32,603 : INFO : Test_Login : test_login_params_003 : 18 : Testcases test_login_params_003 is started
+2023-06-22 10:19:32,603 : INFO : Test_Login : test_login_params_003 : 18 : Testcases test_login_params_003 is started
+2023-06-22 10:19:32,604 : INFO : Test_Login : test_login_params_003 : 20 : Invoking browser
+2023-06-22 10:19:32,604 : INFO : Test_Login : test_login_params_003 : 20 : Invoking browser
+2023-06-22 10:19:32,604 : INFO : Test_Login : test_login_params_003 : 21 : Opening Url
+2023-06-22 10:19:32,604 : INFO : Test_Login : test_login_params_003 : 21 : Opening Url
+2023-06-22 10:19:32,618 : INFO : Test_Login : test_login_params_003 : 18 : Testcases test_login_params_003 is started
+2023-06-22 10:19:32,618 : INFO : Test_Login : test_login_params_003 : 18 : Testcases test_login_params_003 is started
+2023-06-22 10:19:32,618 : INFO : Test_Login : test_login_params_003 : 20 : Invoking browser
+2023-06-22 10:19:32,618 : INFO : Test_Login : test_login_params_003 : 20 : Invoking browser
+2023-06-22 10:19:32,619 : INFO : Test_Login : test_login_params_003 : 21 : Opening Url
+2023-06-22 10:19:32,619 : INFO : Test_Login : test_login_params_003 : 21 : Opening Url
+2023-06-22 10:19:33,098 : INFO : Test_Login : test_login_params_003 : 18 : Testcases test_login_params_003 is started
+2023-06-22 10:19:33,098 : INFO : Test_Login : test_login_params_003 : 18 : Testcases test_login_params_003 is started
+2023-06-22 10:19:33,099 : INFO : Test_Login : test_login_params_003 : 20 : Invoking browser
+2023-06-22 10:19:33,099 : INFO : Test_Login : test_login_params_003 : 20 : Invoking browser
+2023-06-22 10:19:33,100 : INFO : Test_Login : test_login_params_003 : 21 : Opening Url
+2023-06-22 10:19:33,100 : INFO : Test_Login : test_login_params_003 : 21 : Opening Url
+2023-06-22 10:19:33,349 : INFO : Test_Login : test_login_params_003 : 26 : Entering Email-->test@credence.in1
+2023-06-22 10:19:33,349 : INFO : Test_Login : test_login_params_003 : 26 : Entering Email-->test@credence.in1
+2023-06-22 10:19:34,763 : INFO : Test_Login : test_login_params_003 : 24 : Clicking on login link
+2023-06-22 10:19:34,763 : INFO : Test_Login : test_login_params_003 : 24 : Clicking on login link
+2023-06-22 10:19:34,837 : INFO : Test_Login : test_login_params_003 : 24 : Clicking on login link
+2023-06-22 10:19:34,837 : INFO : Test_Login : test_login_params_003 : 24 : Clicking on login link
+2023-06-22 10:19:34,863 : INFO : Test_Login : test_login_params_003 : 24 : Clicking on login link
+2023-06-22 10:19:34,863 : INFO : Test_Login : test_login_params_003 : 24 : Clicking on login link
+2023-06-22 10:19:35,673 : INFO : Test_Login : test_login_params_003 : 28 : Entering password-->test@123
+2023-06-22 10:19:35,673 : INFO : Test_Login : test_login_params_003 : 28 : Entering password-->test@123
+2023-06-22 10:19:35,975 : INFO : Test_Login : test_login_params_003 : 26 : Entering Email-->test@credence.in1
+2023-06-22 10:19:35,975 : INFO : Test_Login : test_login_params_003 : 26 : Entering Email-->test@credence.in1
+2023-06-22 10:19:36,071 : INFO : Test_Login : test_login_params_003 : 26 : Entering Email-->test@credence.in
+2023-06-22 10:19:36,071 : INFO : Test_Login : test_login_params_003 : 26 : Entering Email-->test@credence.in
+2023-06-22 10:19:36,237 : INFO : Test_Login : test_login_params_003 : 26 : Entering Email-->test@credence.in
+2023-06-22 10:19:36,237 : INFO : Test_Login : test_login_params_003 : 26 : Entering Email-->test@credence.in
+2023-06-22 10:19:36,280 : INFO : Test_Login : test_login_params_003 : 28 : Entering password-->test@123
+2023-06-22 10:19:36,280 : INFO : Test_Login : test_login_params_003 : 28 : Entering password-->test@123
+2023-06-22 10:19:37,453 : INFO : Test_Login : test_login_params_003 : 28 : Entering password-->test@1231
+2023-06-22 10:19:37,453 : INFO : Test_Login : test_login_params_003 : 28 : Entering password-->test@1231
+2023-06-22 10:19:37,607 : INFO : Test_Login : test_login_params_003 : 30 : Clicking on login button
+2023-06-22 10:19:37,607 : INFO : Test_Login : test_login_params_003 : 30 : Clicking on login button
+2023-06-22 10:19:37,856 : INFO : Test_Login : test_login_params_003 : 38 : Testcases test_login_params_003 is failed
+2023-06-22 10:19:37,856 : INFO : Test_Login : test_login_params_003 : 38 : Testcases test_login_params_003 is failed
+2023-06-22 10:19:37,899 : INFO : Test_Login : test_login_params_003 : 28 : Entering password-->test@1231
+2023-06-22 10:19:37,899 : INFO : Test_Login : test_login_params_003 : 28 : Entering password-->test@1231
+2023-06-22 10:19:38,430 : INFO : Test_Login : test_login_params_003 : 30 : Clicking on login button
+2023-06-22 10:19:38,430 : INFO : Test_Login : test_login_params_003 : 30 : Clicking on login button
+2023-06-22 10:19:38,586 : INFO : Test_Login : test_login_params_003 : 33 : Testcases test_login_params_003 is passed
+2023-06-22 10:19:38,586 : INFO : Test_Login : test_login_params_003 : 33 : Testcases test_login_params_003 is passed
+2023-06-22 10:19:39,385 : INFO : Test_Login : test_login_params_003 : 30 : Clicking on login button
+2023-06-22 10:19:39,385 : INFO : Test_Login : test_login_params_003 : 30 : Clicking on login button
+2023-06-22 10:19:39,416 : INFO : Test_Login : test_login_params_003 : 38 : Testcases test_login_params_003 is failed
+2023-06-22 10:19:39,416 : INFO : Test_Login : test_login_params_003 : 38 : Testcases test_login_params_003 is failed
+2023-06-22 10:19:39,781 : INFO : Test_Login : test_login_params_003 : 30 : Clicking on login button
+2023-06-22 10:19:39,781 : INFO : Test_Login : test_login_params_003 : 30 : Clicking on login button
+2023-06-22 10:19:40,138 : INFO : Test_Login : test_login_params_003 : 38 : Testcases test_login_params_003 is failed
+2023-06-22 10:19:40,138 : INFO : Test_Login : test_login_params_003 : 38 : Testcases test_login_params_003 is failed
+2023-06-22 10:19:41,931 : INFO : Test_Login : test_login_params_003 : 43 : Testcases test_login_params_003 is completed
+2023-06-22 10:19:41,931 : INFO : Test_Login : test_login_params_003 : 43 : Testcases test_login_params_003 is completed

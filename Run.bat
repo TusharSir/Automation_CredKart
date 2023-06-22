@@ -1,1 +1,1 @@
-pytest -v -m regression --html=Reports/Report.html -n=4 --browser chrome -p no:warnings
+pytest -v --html=Reports/Report.html -n=4 -p no:warnings

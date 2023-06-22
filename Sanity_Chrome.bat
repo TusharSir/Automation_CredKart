@@ -1,0 +1,1 @@
+pytest -v -m sanity --html=Reports/Report.html -n=4 --browser chrome -p no:warnings
